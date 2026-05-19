@@ -57,21 +57,21 @@ The dataset contains 100000+ OLA ride booking records.
 
 ![Overview](overview.png)
 
-### Revenue Analysis
-
-![Revenue](revenue.png)
-
 ### Vehicle Type Analysis
 
 ![Vehicle Type](vehicle_type.png)
 
-### Ratings Analysis
+### Revenue Analysis
 
-![Ratings](ratings.png)
+![Revenue](revenue.png)
 
 ### Cancellation Analysis
 
 ![Cancellation](cancelation.png)
+
+### Ratings Analysis
+
+![Ratings](ratings.png)
 
 ---
 
