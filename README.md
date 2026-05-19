@@ -67,7 +67,7 @@ The dataset contains 100000+ OLA ride booking records.
 
 ### Cancellation Analysis
 
-![Cancellation](cancelation.png)
+![Cancellation](cancellation.png)
 
 ### Ratings Analysis
 
